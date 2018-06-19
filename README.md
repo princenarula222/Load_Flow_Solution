@@ -18,7 +18,7 @@ Column 3 - Line resistance between bus i and bus j
 
 Column 4 - Line reactance between bus i and bus j
 
-Column 5 - Shunt admittance between bus i and bus i
+Column 5 - Shunt admittance between bus i and bus j
 
 2. Bus data - 'busdata.dat'
 
